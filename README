@@ -1,0 +1,3 @@
+This program looks through: 1) a website and finds all IP patterns;
+                            2) a file and finds all IP patterns;
+                            3) a file and finds all URL patterns.
